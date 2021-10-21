@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Computer Science Capstone/Inventory Application
+by Justin Fields
 
 You can use the [editor on GitHub](https://github.com/jfields82/CS-Capstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Welcome to Computer Science Capstone/Inventory Application
-by Justin Fields
 
-site link - 
+
+site link - https://jfields82.github.io/CS-Capstone.github.io/ 
 
 Computer Science Capstone page is to gained a wide exposure to concepts, languages, practices, and techniques relevant to computer science and related career fields. 
 
