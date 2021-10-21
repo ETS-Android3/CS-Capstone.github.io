@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/new_login_gradients"
+
+    tools:context=".LoginSucess">
+
+    <EditText
+        android:id="@+id/itemname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ItemName"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHint="#F2F0F4" />
+
+    <EditText
+        android:id="@+id/eventdetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="EventDetail"
+        android:textColor="@color/black"
+        android:inputType="text"
+        android:textColorHint="#F2F0F4" />
+
+    <EditText
+        android:id="@+id/dailyweight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="DailyWeight"
+        android:textColor="@color/black"
+        android:inputType="text"
+        android:textColorHint="#F0EFF3" />
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_save"
+        android:background="@drawable/background_login"
+        android:text="Insert"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:layout_marginTop="30dp"
+        style="@style/Base.TextAppearance.AppCompat.Body1"
+        android:textSize="18sp"
+        android:textColor="#F4F4F4"
+        android:padding="16dp"
+        android:clickable="true"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/viewdata"
+        android:background="@drawable/background_login"
+        android:text="Read"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:layout_marginTop="30dp"
+        style="@style/Base.TextAppearance.AppCompat.Body1"
+        android:textSize="18sp"
+        android:textColor="#F4F4F4"
+        android:padding="16dp"
+        android:clickable="true"/>
+
+    <EditText
+        android:id="@+id/txt_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        tools:ignore="MissingConstraints" />
+    <Spinner
+        android:id="@+id/text_message"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="#070707"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:background="@drawable/background_login"
+        android:text="Send"
+        android:onClick="send"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:layout_marginTop="30dp"
+        style="@style/Base.TextAppearance.AppCompat.Body1"
+        android:textSize="18sp"
+        android:textColor="#F4F4F4"
+        android:padding="16dp"
+        android:clickable="true"/>
+
+
+
+
+</LinearLayout>

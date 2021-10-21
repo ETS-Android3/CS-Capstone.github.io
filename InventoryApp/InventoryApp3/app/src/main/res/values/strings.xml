@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string-array name="itemselected">
+        <item>Low Inventory</item>
+        <item>Upcoming Event</item>
+        <item>Reaching a Goal Weight</item>
+    </string-array>
+</resources>
