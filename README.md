@@ -2,10 +2,6 @@
 ## Welcome to Computer Science Capstone/Inventory Application
 by Justin Fields
 
-You can use the [editor on GitHub](https://github.com/jfields82/CS-Capstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 
 site link - https://jfields82.github.io/CS-Capstone.github.io/ 
@@ -100,7 +96,9 @@ This is the reason I chose to pick this project. I wanted this artifact in my e-
 
 
 
+You can use the [editor on GitHub](https://github.com/jfields82/CS-Capstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
