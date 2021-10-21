@@ -4,7 +4,9 @@ by Justin Fields
 
 site link - https://jfields82.github.io/CS-Capstone.github.io/
 
-Computer Science Capstone page is to gained a wide exposure to concepts, languages, practices, and techniques relevant to computer science and related career fields. 
+### Professional Self-Assessment and Narratives
+Computer Science Capstone page is to gain a wide exposure to concepts, languages, practices, and techniques relevant to computer science and related career fields. I wrote a few goals I thought would help me during the program. Learning to programming in different languages. Languages learn are Java, JavaScript,C++, python, SQL and C#. Learning each language took many hours to learn. Mistake and errors almost all away happened. Having to go back and check what happened to fix the problem before running a program. I gain a lot of important skills in this computer science program have been great. The program has shown me the best pathway to pursuing my career. I hope to become a software engineer, or a full stack developer who is knowledgeable in both the front end and backend of the application.  I still think I have the skills to become a software engineer in the future and I remained more consistent in this career plan. I have read a few articles about becoming a software engineer. I also got a book about coding interviews. My thinking about my career has evolved in that I need to learn more about of program languages. Because some company’s want you to know a few program languages. 
+
 
 
 For the last 2 and a half years I was in rolled in the computer science program at Southern New Hampshire University. It’s been a very fun, challenging and great experience.
@@ -15,7 +17,7 @@ A few courses in particular like CS-360 Mobile architecture and programming and 
 
 In the computer science program at Southern New Hampshire University my future professional goals have changed I thought I would be more into algorithms and artificial intelligence. But when I took my second computer science class in object oriented analytics and design we learned about the different processes an example Scum and Waterfall.
 
-
+The artifact I picked was a previous class CS 360 Mobile Architecture and Programming the project is an inventory app. You can store items and select items in the inventory app. The Java file was made a few months ago. Learning about variables help me create better databases.
 
 ###  Code Review
 
@@ -93,7 +95,8 @@ The artifact I picked was from my previous class CS 340: Advanced Programming Co
 
 ![image](https://user-images.githubusercontent.com/12861265/137579190-31c84497-6d18-4b55-9195-5825123f6e1e.png)
 
-This is the reason I chose to pick this project. I wanted this artifact in my e-portfolio because this will show how familiar I am with Java programming a popular object-oriented programming language. It was originally written in java programming. I use the concept from the class to add JavaScript to the application.  This was for the design of the project. Like the shape of the application and web based/browsers. I created an apk file to show up on any browser. Also creating a Database were username, password and forgetting password. My project shows my skills as a developer. I add the CRUD operation for interacting with the Database. I completed the Database artifact enhancement. 
+This is the reason I chose to pick this project. I wanted this artifact in my e-portfolio because this will show how familiar I am with Java programming a popular object-oriented programming language. It was originally written in java programming. I use the concept from the class to add JavaScript to the application.  This was for the design of the project. Like the shape of the application and web based/browsers. I created an apk file to show up on any browser. Also creating a Database were username, password and forgetting password. My project shows my skills as a developer. I add the CRUD operation for interacting with the Database. I completed the Database artifact enhancement. If the fields are not empty, the data will be saved in the Database and move to the next page (Login Success ). The page (MainActivity 2) to read the stored data. Password Change with new Values in database. Save name and password in database. Name and password and save it in database. SQL Database Helper It is the part of the database and the background. In which the table is created, the variables that will be stored on the database.
+
 
 ![image](https://user-images.githubusercontent.com/12861265/137579215-009eb230-85fe-48ff-b284-089c695a54d9.png)
 
