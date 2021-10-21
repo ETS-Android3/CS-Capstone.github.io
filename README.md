@@ -4,7 +4,7 @@ by Justin Fields
 
 
 
-site link - https://jfields82.github.io/CS-Capstone.github.io/ 
+Site link - https://jfields82.github.io/CS-Capstone.github.io/ 
 
 Computer Science Capstone page is to gained a wide exposure to concepts, languages, practices, and techniques relevant to computer science and related career fields. 
 
